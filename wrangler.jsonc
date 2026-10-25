@@ -6,9 +6,5 @@
     "directory": "./public",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
-  },
-  "routes": [
-    { "pattern": "ianwschneider.com", "custom_domain": true },
-    { "pattern": "www.ianwschneider.com", "custom_domain": true }
-  ]
+  }
 }
